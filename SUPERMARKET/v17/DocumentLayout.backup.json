@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\muslim_v.10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52D5D27F-6D9E-4924-A4A4-21A5B3FA0BF6}|SUPERMARKET\\SUPERMARKET.csproj|c:\\users\\lenovo\\desktop\\muslim_v.10\\supermarket\\selling_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52D5D27F-6D9E-4924-A4A4-21A5B3FA0BF6}|SUPERMARKET\\SUPERMARKET.csproj|solutionrelative:supermarket\\selling_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D5D27F-6D9E-4924-A4A4-21A5B3FA0BF6}|SUPERMARKET\\SUPERMARKET.csproj|c:\\users\\lenovo\\desktop\\muslim_v.10\\supermarket\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52D5D27F-6D9E-4924-A4A4-21A5B3FA0BF6}|SUPERMARKET\\SUPERMARKET.csproj|solutionrelative:supermarket\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D5D27F-6D9E-4924-A4A4-21A5B3FA0BF6}|SUPERMARKET\\SUPERMARKET.csproj|c:\\users\\lenovo\\desktop\\muslim_v.10\\supermarket\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52D5D27F-6D9E-4924-A4A4-21A5B3FA0BF6}|SUPERMARKET\\SUPERMARKET.csproj|solutionrelative:supermarket\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D5D27F-6D9E-4924-A4A4-21A5B3FA0BF6}|SUPERMARKET\\SUPERMARKET.csproj|C:\\Users\\lenovo\\Desktop\\muslim_v.10\\supermarket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52D5D27F-6D9E-4924-A4A4-21A5B3FA0BF6}|SUPERMARKET\\SUPERMARKET.csproj|solutionrelative:supermarket\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52D5D27F-6D9E-4924-A4A4-21A5B3FA0BF6}|SUPERMARKET\\SUPERMARKET.csproj|C:\\Users\\lenovo\\Desktop\\muslim_v.10\\supermarket\\category_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52D5D27F-6D9E-4924-A4A4-21A5B3FA0BF6}|SUPERMARKET\\SUPERMARKET.csproj|solutionrelative:supermarket\\category_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 69,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Selling_form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\muslim_v.10\\SUPERMARKET\\Selling_form.cs",
+              "RelativeDocumentMoniker": "SUPERMARKET\\Selling_form.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\muslim_v.10\\SUPERMARKET\\Selling_form.cs [Design]",
+              "RelativeToolTip": "SUPERMARKET\\Selling_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:05:40.952Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\muslim_v.10\\SUPERMARKET\\Seller.cs",
+              "RelativeDocumentMoniker": "SUPERMARKET\\Seller.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\muslim_v.10\\SUPERMARKET\\Seller.cs [Design]",
+              "RelativeToolTip": "SUPERMARKET\\Seller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:56:40.378Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\muslim_v.10\\SUPERMARKET\\Form3.cs",
+              "RelativeDocumentMoniker": "SUPERMARKET\\Form3.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\muslim_v.10\\SUPERMARKET\\Form3.cs [Design]",
+              "RelativeToolTip": "SUPERMARKET\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T09:26:27.326Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\muslim_v.10\\SUPERMARKET\\Form1.cs",
+              "RelativeDocumentMoniker": "SUPERMARKET\\Form1.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\muslim_v.10\\SUPERMARKET\\Form1.cs [Design]",
+              "RelativeToolTip": "SUPERMARKET\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:40:49.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "category_form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\muslim_v.10\\SUPERMARKET\\category_form.cs",
+              "RelativeDocumentMoniker": "SUPERMARKET\\category_form.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\muslim_v.10\\SUPERMARKET\\category_form.cs [Design]",
+              "RelativeToolTip": "SUPERMARKET\\category_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T08:40:50.109Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
